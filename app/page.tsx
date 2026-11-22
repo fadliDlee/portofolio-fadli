@@ -218,7 +218,7 @@ export default function Portfolio() {
 
       {/* FOOTER */}
       <footer className="border-t border-slate-800 py-8 text-center text-sm text-slate-500">
-        <p>© {new Date().getFullYear()} Fadli Paresyi. Built with Next.js & Tailwind CSS.</p>
+        <p>© 2026 Fadli Paresyi. Built with Next.js & Tailwind CSS.</p>
       </footer>
     </div>
   );
